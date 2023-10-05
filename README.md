@@ -3,6 +3,7 @@
       proficient in data analysis, data visualization, and
       possessing a strong understanding of statistical
       analysis techniques.
+  
 -👨🏻‍💻 Technical Skill
       - Data Analysis
 - Data Visualization
