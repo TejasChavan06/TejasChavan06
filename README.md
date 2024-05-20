@@ -6,7 +6,6 @@
   
 -👨🏻‍💻 Technical Skill
       - Flutter Developer 
-- Data Visualization
 - Flutter
 - API
 - Firebase
