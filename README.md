@@ -5,12 +5,11 @@
       analysis techniques.
   
 -👨🏻‍💻 Technical Skill
-      - Data Analysis
+      - Flutter Developer 
 - Data Visualization
-- SQL
-- Python
-- Power BI
-- Excel
+- Flutter
+- API
+- Firebase
 - Statistical Analysis
 - Effective Communication
 - Presentation
